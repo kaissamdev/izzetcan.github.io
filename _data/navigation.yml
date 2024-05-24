@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Custom Homes"
+    url: /customHomes
+  - title: "Commercial"
+    url: /commercial
+  - title: "About Me"
+    url: /about
+  

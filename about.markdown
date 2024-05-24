@@ -1,18 +1,15 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# hi I'm Izzetcan
+You want to work with people who have a smile on their face, are willing to give the benefit of the doubt, and are generally happy to do what they’re doing. It makes for more enjoyable project sites—with less egos and less drama.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Values
+### Honest
+{% include honestValues.md %}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### Committed
+{% include committedValues.md %}
